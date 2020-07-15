@@ -6,6 +6,7 @@ import * as serviceWorker from './serviceWorker';
 
 // TODO TODO だよ
 // TODO さらに TODO だよ
+// TODO プルリクエストを作るよ
 
 ReactDOM.render(
   <React.StrictMode>
